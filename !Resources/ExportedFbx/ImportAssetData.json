@@ -1,0 +1,18 @@
+{
+    "Coment": {
+        "1/3": "This file was generated with the addons Blender for UnrealEngine : https://github.com/xavier150/Blender-For-UnrealEngine-Addons",
+        "2/3": "This file contains additional Camera animation informations that is not supported with .fbx files",
+        "3/3": "The script must be used in Unreal Engine Editor with Python plugins : https://docs.unrealengine.com/en-US/Engine/Editor/ScriptingAndAutomation/Python"
+    },
+    "unreal_import_location": "/Game/ImportedFbx",
+    "assets": [
+        {
+            "name": "EmptyCollectionForUnrealExport_Temp",
+            "type": "StaticMesh",
+            "full_import_path": "/Game/ImportedFbx",
+            "fbx_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Hideout.fbx",
+            "abc_path": null,
+            "additional_tracks_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Hideout_AdditionalTrack.json"
+        }
+    ]
+}
