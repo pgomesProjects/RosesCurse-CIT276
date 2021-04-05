@@ -10,9 +10,25 @@
             "name": "EmptyCollectionForUnrealExport_Temp",
             "type": "StaticMesh",
             "full_import_path": "/Game/ImportedFbx",
-            "fbx_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Hideout.fbx",
+            "fbx_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Collection.fbx",
             "abc_path": null,
-            "additional_tracks_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Hideout_AdditionalTrack.json"
+            "additional_tracks_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Collection_AdditionalTrack.json"
+        },
+        {
+            "name": "EmptyCollectionForUnrealExport_Temp",
+            "type": "StaticMesh",
+            "full_import_path": "/Game/ImportedFbx",
+            "fbx_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Lanterns.fbx",
+            "abc_path": null,
+            "additional_tracks_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Lanterns_AdditionalTrack.json"
+        },
+        {
+            "name": "EmptyCollectionForUnrealExport_Temp",
+            "type": "StaticMesh",
+            "full_import_path": "/Game/ImportedFbx",
+            "fbx_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Roofs.fbx",
+            "abc_path": null,
+            "additional_tracks_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Roofs_AdditionalTrack.json"
         }
     ]
 }
