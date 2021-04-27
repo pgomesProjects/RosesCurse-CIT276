@@ -1,8 +1,20 @@
 This file was generated with the addons Blender for UnrealEngine : https://github.com/xavier150/Blender-For-UnrealEngine-Addons
 
-0 StaticMesh(s) | 0 SkeletalMesh(s) | 0 Alembic(s) | 0 Animation(s) | 0 Camera(s) | 1 Other(s)
+0 StaticMesh(s) | 0 SkeletalMesh(s) | 0 Alembic(s) | 0 Animation(s) | 0 Camera(s) | 4 Other(s)
 
-EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 0.45s
+EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 0.6s
+//ExportedFbx\StaticMesh\SM_Bedroom+HallwayWall.fbx
+//ExportedFbx\StaticMesh\SM_Bedroom+HallwayWall_AdditionalTrack.json
+
+EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 2.22s
+//ExportedFbx\StaticMesh\SM_Lanterns.fbx
+//ExportedFbx\StaticMesh\SM_Lanterns_AdditionalTrack.json
+
+EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 0.56s
 //ExportedFbx\StaticMesh\SM_LibraryTable.fbx
 //ExportedFbx\StaticMesh\SM_LibraryTable_AdditionalTrack.json
+
+EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 0.27s
+//ExportedFbx\StaticMesh\SM_StaircaseSupport.fbx
+//ExportedFbx\StaticMesh\SM_StaircaseSupport_AdditionalTrack.json
 

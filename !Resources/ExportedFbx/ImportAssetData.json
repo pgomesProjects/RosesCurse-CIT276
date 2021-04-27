@@ -10,9 +10,33 @@
             "name": "EmptyCollectionForUnrealExport_Temp",
             "type": "StaticMesh",
             "full_import_path": "/Game/ImportedFbx",
+            "fbx_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Bedroom+HallwayWall.fbx",
+            "abc_path": null,
+            "additional_tracks_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Bedroom+HallwayWall_AdditionalTrack.json"
+        },
+        {
+            "name": "EmptyCollectionForUnrealExport_Temp",
+            "type": "StaticMesh",
+            "full_import_path": "/Game/ImportedFbx",
+            "fbx_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Lanterns.fbx",
+            "abc_path": null,
+            "additional_tracks_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_Lanterns_AdditionalTrack.json"
+        },
+        {
+            "name": "EmptyCollectionForUnrealExport_Temp",
+            "type": "StaticMesh",
+            "full_import_path": "/Game/ImportedFbx",
             "fbx_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_LibraryTable.fbx",
             "abc_path": null,
             "additional_tracks_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_LibraryTable_AdditionalTrack.json"
+        },
+        {
+            "name": "EmptyCollectionForUnrealExport_Temp",
+            "type": "StaticMesh",
+            "full_import_path": "/Game/ImportedFbx",
+            "fbx_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_StaircaseSupport.fbx",
+            "abc_path": null,
+            "additional_tracks_path": "E:\\Unreal_Engine\\RosesCurse-CIT276\\!Resources\\ExportedFbx\\StaticMesh\\SM_StaircaseSupport_AdditionalTrack.json"
         }
     ]
 }
