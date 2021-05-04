@@ -1,36 +1,8 @@
 This file was generated with the addons Blender for UnrealEngine : https://github.com/xavier150/Blender-For-UnrealEngine-Addons
 
-0 StaticMesh(s) | 0 SkeletalMesh(s) | 0 Alembic(s) | 0 Animation(s) | 0 Camera(s) | 8 Other(s)
+0 StaticMesh(s) | 0 SkeletalMesh(s) | 0 Alembic(s) | 0 Animation(s) | 0 Camera(s) | 1 Other(s)
 
-EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 0.44s
-//ExportedFbx\StaticMesh\SM_Collection.fbx
-//ExportedFbx\StaticMesh\SM_Collection_AdditionalTrack.json
-
-EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 0.16s
-//ExportedFbx\StaticMesh\SM_Foyer.fbx
-//ExportedFbx\StaticMesh\SM_Foyer_AdditionalTrack.json
-
-EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 0.13s
-//ExportedFbx\StaticMesh\SM_Hideout.fbx
-//ExportedFbx\StaticMesh\SM_Hideout_AdditionalTrack.json
-
-EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 2.24s
-//ExportedFbx\StaticMesh\SM_Lanterns.fbx
-//ExportedFbx\StaticMesh\SM_Lanterns_AdditionalTrack.json
-
-EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 0.23s
-//ExportedFbx\StaticMesh\SM_LibraryTable.fbx
-//ExportedFbx\StaticMesh\SM_LibraryTable_AdditionalTrack.json
-
-EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 0.1s
-//ExportedFbx\StaticMesh\SM_LibraryWall.fbx
-//ExportedFbx\StaticMesh\SM_LibraryWall_AdditionalTrack.json
-
-EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 0.15s
-//ExportedFbx\StaticMesh\SM_Roofs.fbx
-//ExportedFbx\StaticMesh\SM_Roofs_AdditionalTrack.json
-
-EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 0.12s
-//ExportedFbx\StaticMesh\SM_StaircaseSupport.fbx
-//ExportedFbx\StaticMesh\SM_StaircaseSupport_AdditionalTrack.json
+EmptyCollectionForUnrealExport_Temp [Collection StaticMesh] EXPORTED IN 0.96s
+//ExportedFbx\StaticMesh\SM_Books.fbx
+//ExportedFbx\StaticMesh\SM_Books_AdditionalTrack.json
 
